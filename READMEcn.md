@@ -14,7 +14,7 @@
 
 然后转到巨硬官网<https://support.microsoft.com/zh-cn/surfacerecoveryimage>下载镜像，懂得都懂
 
-解压镜像，直接放入U盘！[image](https://github.com/cruederio139/SurfaceRT2Repair/blob/main/example.png)
+解压镜像，直接放入U盘！[你自己康康](https://github.com/cruederio139/SurfaceRT2Repair/blob/main/example.png)
 
 *******
 - 步骤 1： 	确保 Surface 已关闭并接通电源。
