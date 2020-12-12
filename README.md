@@ -21,4 +21,5 @@ Google for countermeasures and find that no one can help you. At this time, Micr
 Step 8:	Select Recovery. Surface restarts and the Surface logo appears as the reset process continues. This may take a few minutes.
 
 * congratulations！🎉🎉🎉
+<u>Finally, it's time to upgrade your surface to win10</u>
 
