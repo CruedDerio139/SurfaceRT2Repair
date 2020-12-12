@@ -5,11 +5,10 @@ Google for countermeasures and find that no one can help you. At this time, Micr
 
 
 ## How to do that
-    -Make sure you have an 8GB USB flash drive (USB2.0 is recommended because I have tried it many times to get into recovery mode)
-
-    -Then go to the Microsoft website <https://support.microsoft.com/en-us/surfacerecoveryimage> and download the image
-
-    -Unzip the image and put it directly into the USB flash drive ![example](https://github.com/CruedDerio139/SurfaceRT2Repair/blob/main/example.png)
+-Make sure you have an 8GB USB flash drive (USB2.0 is recommended because I have tried it many times to get into recovery mode)
+-Then go to the Microsoft website <https://support.microsoft.com/en-us/surfacerecoveryimage> and download the image
+-Unzip the image and put it directly into the USB flash drive ![example](https://github.com/CruedDerio139/SurfaceRT2Repair/blob/main/example.png)
+*******
 - Step 1:	Make sure your Surface is turned off and plugged in.
 - Step 2:	Plug the USB recovery drive into the USB port.
 - Step 3:	Press and hold the volume down button while pressing and releasing the power button.
