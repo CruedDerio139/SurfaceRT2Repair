@@ -20,6 +20,7 @@ Google for countermeasures and find that no one can help you. At this time, Micr
 - Step 7:	Select Delete only my files or Clean drive completely. The option to clean up the drive is more secure, but it also takes a long time. For example, if you want to recycle your Surface, you should clean up your drive. If you want to keep your Surface, just delete the file.
 Step 8:	Select Recovery. Surface restarts and the Surface logo appears as the reset process continues. This may take a few minutes.
 
-* [^congratulations！]🎉🎉🎉
-    [^congratulations！]: Finally, it's time to upgrade your surface to win10.
+* congratulations！🎉🎉🎉
+----------
++ Finally, it's time to upgrade your surface to win10.
 
