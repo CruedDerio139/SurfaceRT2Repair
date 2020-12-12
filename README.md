@@ -15,15 +15,10 @@ Google for countermeasures and find that no one can help you. At this time, Micr
 - Step 3:	Press and hold the volume down button while pressing and releasing the power button.
 - Step 4:	When the Surface logo is displayed, release the volume button.
 - Step 5:	When you see the prompt, select the language and keyboard layout you want.
-- Step 6:	If you're using a Windows 10 USB recovery drive, do the following:
-    Select Troubleshooter and Reset PC in turn.
-    If prompted to enter a recovery key, select Skip this drive at the bottom of the screen.
-    Select Troubleshooter and Recover from Drive in turn.
-- If prompted to enter a recovery key, select Skip this drive at the bottom of the screen.
- 	Note: Make sure that the USB recovery image you're using works for your Surface. In some cases, this recovery image may be appropriate for legacy operating systems. You can download a recovery image for your device from Download Surface at any time.
-- Step 7:	Select the target operating system that needs to be reset. (This refers to the operating system currently installed on your Surface.) )
-- Step 8:	Select Delete only my files or Clean drive completely. The option to clean up the drive is more secure, but it also takes a long time. For example, if you want to recycle your Surface, you should clean up your drive. If you want to keep your Surface, just delete the file.
-Step 9:	Select Recovery. Surface restarts and the Surface logo appears as the reset process continues. This may take a few minutes.
+    ___When you're in recovery mode, don't get too excited. If you choose to boot from the drive,___ 🤪, ___you need to change your USB flash drive , otherwise it won't be recognized___
+- Step 6:	Select the target operating system that needs to be reset. (This refers to the operating system currently installed on your Surface.) )
+- Step 7:	Select Delete only my files or Clean drive completely. The option to clean up the drive is more secure, but it also takes a long time. For example, if you want to recycle your Surface, you should clean up your drive. If you want to keep your Surface, just delete the file.
+Step 8:	Select Recovery. Surface restarts and the Surface logo appears as the reset process continues. This may take a few minutes.
 
 * congratulations！🎉🎉🎉
 
