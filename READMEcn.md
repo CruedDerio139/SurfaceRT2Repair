@@ -2,8 +2,7 @@
 
 当你的surface2由于更换EFI而无法正常启动时（***没有人会这样做，除非你像我一样闲的没事干***），
 
-![图像](https://github.com/cruederio139/SurfaceRT2Repair/blob/main/image.png)你会很烦。然后你百度寻找对策，发现没人能帮你。此时，微软官方的恢复模式也无法进入。
-那我想你应该试试我的办法。😏
+![图像](https://github.com/cruederio139/SurfaceRT2Repair/blob/main/image.png)你会很烦。那我想你应该试试我的办法。😏
 
 
 
