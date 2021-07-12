@@ -6,7 +6,7 @@ When your surface2 fails to start normally due to replacing EFI (***no one will 
 ## How to do that （English） [中文](https://github.com/CruedDerio139/SurfaceRT2Repair/blob/main/READMEcn.md)
 Make sure you have an 8GB USB flash drive (USB2.0 is recommended because I have tried it many times to get into recovery mode)  
 Then go to the Microsoft website <https://support.microsoft.com/en-us/surfacerecoveryimage> and download the image  
-Unzip the image and put it directly into the USB flash drive ![example](https://pic.liesio.com/2021/07/12/640d1baea1387.png)
+Unzip the image and put it directly into the USB flash drive [![example.png](https://i.postimg.cc/QNHmpvbv/example.png)](https://postimg.cc/141DSCbK)
 *******
 - Step 1:	Make sure your Surface is turned off and plugged in.
 - Step 2:	Plug the USB recovery drive into the USB port.
