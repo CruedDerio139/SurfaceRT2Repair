@@ -1,6 +1,6 @@
 # Notice
 When your surface2 fails to start normally due to replacing EFI (***no one will do this,unless you're stupid like me***),
-<img src="https://pic.liesio.com/2021/07/12/37c0a68203002.png" width="50%"> you will be very anxious. Then I think you should try my suggestion.😏
+[![image.png](https://i.postimg.cc/YSzrDGqy/image.png)](https://postimg.cc/yJWCkNRF) you will be very anxious. Then I think you should try my suggestion.😏
 
 
 ## How to do that （English） [中文](https://github.com/CruedDerio139/SurfaceRT2Repair/blob/main/READMEcn.md)
