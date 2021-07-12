@@ -1,7 +1,6 @@
 # Notice
 When your surface2 fails to start normally due to replacing EFI (***no one will do this,unless you're stupid like me***),
-![image](https://github.com/CruedDerio139/SurfaceRT2Repair/blob/main/image.png) you will be very anxious. Then you search
-Google for countermeasures and find that no one can help you. At this time, Microsoft's official recovery mode can not enter. Then I think you should try my suggestion.😏
+![image](https://github.com/CruedDerio139/SurfaceRT2Repair/blob/main/image.png) you will be very anxious. Then I think you should try my suggestion.😏
 
 
 ## How to do that （English） [中文](https://github.com/CruedDerio139/SurfaceRT2Repair/blob/main/READMEcn.md)
